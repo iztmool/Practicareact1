@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Practicareact1/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Practicareact1/static/js/main.0eaed925.chunk.js",
+    "main.js.map": "/Practicareact1/static/js/main.0eaed925.chunk.js.map",
+    "runtime-main.js": "/Practicareact1/static/js/runtime-main.cd8c6c04.js",
+    "runtime-main.js.map": "/Practicareact1/static/js/runtime-main.cd8c6c04.js.map",
+    "static/js/2.79d9f4ea.chunk.js": "/Practicareact1/static/js/2.79d9f4ea.chunk.js",
+    "static/js/2.79d9f4ea.chunk.js.map": "/Practicareact1/static/js/2.79d9f4ea.chunk.js.map",
+    "index.html": "/Practicareact1/index.html",
+    "precache-manifest.9626d1403f9f2f0b81e878f0eb21b5c7.js": "/Practicareact1/precache-manifest.9626d1403f9f2f0b81e878f0eb21b5c7.js",
+    "service-worker.js": "/Practicareact1/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Practicareact1/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.79d9f4ea.chunk.js.LICENSE.txt": "/Practicareact1/static/js/2.79d9f4ea.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Practicareact1/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd8c6c04.js",
+    "static/js/2.79d9f4ea.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.0eaed925.chunk.js"
+  ]
+}
